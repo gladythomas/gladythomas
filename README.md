@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glady Thomas</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400px" src="![image](https://user-images.githubusercontent.com/97222269/202247712-73fc7fb6-3c43-47b3-b1be-f4a71e60a853.png)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gladythomas&label=Profile%20views&color=0e75b6&style=flat" alt="gladythomas" /> </p>
 
