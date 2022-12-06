@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gladythomas&label=Profile%20views&color=0e75b6&style=flat" alt="gladythomas" /> </p>
 
-- 🌱 I’m currently learning **DSA,React,Angular**
+- 🌱 I’m currently learning **DSA,React,Node**
 
 - 👨‍💻 All of my projects are available at [atapirates.pythonanywhere.com](atapirates.pythonanywhere.com)
 
