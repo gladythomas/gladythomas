@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA,React,Node**
 
-- 👨‍💻 All of my projects are available at [atapirates.pythonanywhere.com](datapirates.pythonanywhere.com)
+- 👨‍💻 All of my projects are available at [datapirates.pythonanywhere.com](datapirates.pythonanywhere.com)
 
 - 📄 Know about my experiences [Worked as IT Admin in St.Francis collage For Women.](Worked as IT Admin in St.Francis collage For Women.)
 
