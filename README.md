@@ -9,7 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gladythomas-projects.vercel.app/](https://portfolio-gladythomas-projects.vercel.app/)
 
-- 📄 Know about my experiences [Worked as IT Admin in St.Francis collage For Women.](Worked as IT Admin in St.Francis collage For Women.)
+- 📄 Know about my experiences:
+- [Working as Junior Software Developer in H-Mustafa's A to Z Private Limited]
+- [Worked as IT Admin in St.Francis collage For Women.]
+- [Worked as Contract Consultant in Sunera Technologies.]
 
 - ⚡ Fun fact **I am Funny.**
 
