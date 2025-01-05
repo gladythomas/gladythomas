@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA,React,Node**
 
-- 👨‍💻 All of my projects are available at [datapirates.pythonanywhere.com](datapirates.pythonanywhere.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-gladythomas-projects.vercel.app/](https://portfolio-gladythomas-projects.vercel.app/)
 
 - 📄 Know about my experiences [Worked as IT Admin in St.Francis collage For Women.](Worked as IT Admin in St.Francis collage For Women.)
 
