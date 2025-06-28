@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gladythomas&label=Profile%20views&color=0e75b6&style=flat" alt="gladythomas" /> </p>
 
-- 🌱 I’m currently learning **DSA,React,Node**
+- 🌱 I’m working on SFC ERP
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gladythomas-projects.vercel.app/](https://portfolio-gladythomas-projects.vercel.app/)
 
